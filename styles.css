@@ -1,0 +1,6 @@
+*{text-align: center;color: #E0FFFF;}
+body{background-color: #696969}
+button{background-color: #0004fa; border:none;border-radius:10px;box-shadow: 0px 0px 5px 5px #0d10ad;width: 5%;}
+button:hover{background-color: #281fa1; border:none;border-radius:10px;box-shadow: 0px 0px 5px 5px #3c1694;width: 5%;}
+button:active{background-color: #265499;}
+button:focus{border:none;border-radius:10px;box-shadow: 0px 0px 5px 5px #1523a3;}
